@@ -17,7 +17,7 @@ export const PROFILE = {
   name: 'Lakshay Kumar',
   role: 'Frontend Engineer',
   intro:
-    'I build hiring tools at SenseHQ with React, Chrome extensions and AI agents. This is how I got here.',
+    'I build scalable products and optimise them to stay fast, with React, Chrome extensions and AI agents. This is how I got here.',
 }
 
 export type StoryLink = {
@@ -130,8 +130,8 @@ export const STOPS: Stop[] = [
         label: 'Chart wrapper',
         title: 'Config-driven charts',
         description:
-          'A chart wrapper for the internal design system, so any team can drop in reusable, customisable data visualisations.',
-        tags: ['Design system', 'Data viz'],
+          'A config-driven Highcharts wrapper for the internal design system, so any team can drop in reusable, customisable charts.',
+        tags: ['Design system', 'Highcharts'],
         icon: ChartColumn,
       },
       {
