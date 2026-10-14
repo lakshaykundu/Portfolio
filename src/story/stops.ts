@@ -198,7 +198,7 @@ export const STOPS: Stop[] = [
           'An interactive visualiser of what React does between a click and a pixel. Every step is traced from real running components, never pre-recorded.',
         tags: ['React 19', 'TypeScript', 'Framer Motion'],
         links: [
-          { label: 'Live', href: 'https://react-learn-workwithlakshay.vercel.app' },
+          { label: 'Live', href: 'https://react-learn-brown.vercel.app' },
           { label: 'GitHub', href: 'https://github.com/lakshaykundu/react-learn' },
         ],
         icon: Atom,
